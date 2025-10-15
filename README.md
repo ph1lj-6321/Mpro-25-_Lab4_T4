@@ -1,4 +1,4 @@
-Mpro-25 Lab4_T4
+Mpro-25 Lab4_T4 (OPTIONAL)
 
 Pre-amble
 
@@ -8,4 +8,6 @@ For this OPTIONAL lab, make a copy of your T3 code, save it as T4 and work with 
 
 Save yout T4 to the Pico (I'm assuming you still have the Pimoroni firmware installed) as main.py so it will run when you power-up the Pico - going forward edit this file (main.py)
 
+
+** Lab details
 
