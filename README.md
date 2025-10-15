@@ -12,7 +12,7 @@ Save your T4 to the Pico (I'm assuming you still have the Pimoroni firmware inst
 # **Lab details**
 
 - Task 1, When the button A is pressed - the bargraph is to be switched OFF, and the background colour is set to black (the Bargraph should not come back on again, until the power is cycled (so it's rebooted))
-- Task 2, When button B is pressed - the text displaying the current sampled temperature is moved to the center of the screen and stay there, also increase the font size, until the power is cycled.
+- Task 2, When button B is pressed - the text displaying the current sampled temperature is moved to the center of the screen and stay there, also increase the font size (a property of the display module), until the power is cycled.
 - Task 3, change the background color of the displayed text to match the rest of the screen, the text colour should also be changed - both with button X, they should remain like that, until the power is cycled.
 - Task 4, change the contents of the displayed text to now show your name (initials), only when button Y is pressed - when released it should return to displaying the temperature, at the same position until the power is cycled.
 - Task 5, Add the code to Reset the Pico (a function of the machine module), if both the X & Y buttons are pressed simultaneously.
