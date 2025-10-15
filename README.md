@@ -15,4 +15,5 @@ Save your T4 to the Pico (I'm assuming you still have the Pimoroni firmware inst
 - Task 2, When button B is pressed - the text displaying the current sampled temperature is moved to the center of the screen and stay there, also increase the font size.
 - Task 3, change the background color of the displayed text to match the rest of the screen, the text colour should also be changed - both with button X.
 - Task 4, change the contents of the displayed text to now show your name (initials), only when button Y is pressed - when released it should return to displaying the temperature, at the same position.
+- Task 5, Add the code to Reset the Pico if both the X & Y buttons are pressed simultaneously. 
 
