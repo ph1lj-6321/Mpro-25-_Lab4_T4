@@ -17,8 +17,8 @@ Save your T4 to the Pico (I'm assuming you still have the Pimoroni firmware inst
 - Task 4, change the contents of the displayed text to now show your name (initials), only when button Y is pressed - when released it should return to displaying the temperature, at the same position.
 - Task 5, Add the code to Reset the Pico if both the X & Y buttons are pressed simultaneously.
 
+<img width="306" height="212" alt="actual" src="https://github.com/user-attachments/assets/e97a415e-fc88-45bc-a70f-1fe4242e35dc" />
+
 
 
    
-![IMG_1949](https://github.com/user-attachments/assets/05674880-b7d7-400c-afd7-53d06ccabe3c)
-
