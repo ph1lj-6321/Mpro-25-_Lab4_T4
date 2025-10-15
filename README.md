@@ -11,5 +11,7 @@ Save your T4 to the Pico (I'm assuming you still have the Pimoroni firmware inst
 
 # **Lab details**
 
-- Task 1
+- Task 1, When the button A is pressed - the bargraph is to be switched OFF, and the background colour is set to black (the Bargraph should not come back on again, until the power is cycled (so reboot))
+- Task 2, When button B is pressed - the text displaying the current sampled temperature is moved to the center of the screen, and stay there.
+- Task 3, change the background color of the displayed text to match that reset of the screen.
 
