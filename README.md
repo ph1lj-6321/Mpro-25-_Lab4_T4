@@ -11,3 +11,5 @@ Save your T4 to the Pico (I'm assuming you still have the Pimoroni firmware inst
 
 # **Lab details**
 
+- Task 1
+
