@@ -9,7 +9,7 @@ For this OPTIONAL lab, make a copy of your T3 code, save it as T4.py and work wi
 Save your T4 to the Pico (I'm assuming you still have the Pimoroni firmware installed) as main.py so it will run when you power-up the Pico - going forward edit this file (main.py)
 
 
-# **Lab details (4 new tasks)**
+# **Lab details (5 new tasks)**
 
 - Task 1, When the button A is pressed - the bargraph is to be switched OFF, and the background colour is set to black (the Bargraph should not come back on again, until the power is cycled (so it's rebooted))
 - Task 2, When button B is pressed - the text displaying the current sampled temperature is moved to the center of the screen and stay there, also increase the font size (a property of the display module, specifically .text), until the power is cycled.
